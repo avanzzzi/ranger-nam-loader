@@ -4,6 +4,8 @@ A dual Neural Amp Model (NAM) loader with dual IR cabinet simulation. Inspired b
 
 Built with [JUCE](https://juce.com/), [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (Windows, Linux) and LV2 (Linux).
 
+https://github.com/user-attachments/assets/ce79e359-73d3-4207-99d5-369920ee91d1
+
 ## Features
 
 - Two serial NAM slots (A → B) for stacking amp models
