@@ -8,10 +8,11 @@ https://github.com/user-attachments/assets/ce79e359-73d3-4207-99d5-369920ee91d1
 
 ## Features
 
+- Ranger-style keyboard-driven file browser for fast NAM and IR browsing
 - Two serial NAM slots (A → B) for stacking amp models
 - Two parallel IR slots (A + B) with crossfade mix for cabinet blending
 - Per-slot input/output gain controls
-- Ranger-style keyboard-driven file browser for fast NAM and IR browsing
+- NAM and IR output normalization
 
 ## Downloads
 
