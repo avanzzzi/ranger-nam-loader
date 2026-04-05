@@ -4,6 +4,8 @@ A simple, fast NAM loader plugin. Inspired by [ranger](https://github.com/ranger
 
 Built with [JUCE](https://juce.com/), [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (Windows, Linux) and LV2 (Linux).
 
+<img width="1005" height="935" alt="Image" src="https://github.com/user-attachments/assets/81708647-7f98-4889-b51a-7b05db8a25a3" />
+
 https://github.com/user-attachments/assets/ce79e359-73d3-4207-99d5-369920ee91d1
 
 ## Features
