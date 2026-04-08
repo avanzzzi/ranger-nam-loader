@@ -20,6 +20,8 @@ Check the [Releases](../../releases) page for pre-built VST3 binaries for Window
 
 ## Controls
 
+In case any os these controls conflicts with host/DAW shortcuts, you can toggle an option to forward all keypresses to plugin in your FX panel.
+
 | Key       | Action                            |
 |-----------|-----------------------------------|
 | ↑ / ↓     | Navigate file list                |
