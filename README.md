@@ -2,7 +2,7 @@
 
 A simple, fast NAM loader plugin. Inspired by [ranger](https://github.com/ranger/ranger) and vim. Keyboard-driven, optimized for performance.
 
-Built with [JUCE](https://juce.com/), [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (MacOS, Windows, Linux) and LV2 (Linux).
+Built with [JUCE](https://juce.com/), [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3, CLAP (MacOS, Windows, Linux) and LV2 (Linux). You probably need to [disable gatekeeper](https://disable-gatekeeper.github.io) to use it on MacOS.
 
 https://github.com/user-attachments/assets/146d01d8-ede9-408f-83ae-f58c652ecf14
 
@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/146d01d8-ede9-408f-83ae-f58c652ecf14
 
 ## Downloads
 
-Check the [Releases](../../releases) page for pre-built VST3 binaries for Windows, Linux and MacOS.
+Check the [Releases](../../releases) page for pre-built binaries.
 
 ## Controls
 
