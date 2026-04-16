@@ -2,7 +2,7 @@
 
 A simple, fast NAM loader plugin. Inspired by [ranger](https://github.com/ranger/ranger) and vim. Keyboard-driven, optimized for performance.
 
-Built with [JUCE](https://juce.com/), [NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (MacOS, Windows, Linux) and LV2 (Linux).
+Built with [JUCE](https://juce.com/), [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (MacOS, Windows, Linux) and LV2 (Linux).
 
 https://github.com/user-attachments/assets/146d01d8-ede9-408f-83ae-f58c652ecf14
 
@@ -33,11 +33,11 @@ In case any os these controls conflicts with host/DAW shortcuts, you can toggle 
 
 ## Advanced Shortcuts
 
-| Key | Action |
-|-----|--------|
+| Key     | Action                             |
+|---------|------------------------------------|
 | 1 2 3 4 | Switch to NAM A, NAM B, IR A, IR B |
-| h | Toggle IR mix between A and B |
-| n | Load next file in browser |
-| p | Load previous file in browser |
-| pgup | Go to the first file in browser |
-| pgdn | Go to the last file in browser |
+| h       | Toggle IR mix between A and B      |
+| n       | Load next file in browser          |
+| p       | Load previous file in browser      |
+| pgup    | Go to the first file in browser    |
+| pgdn    | Go to the last file in browser     |
