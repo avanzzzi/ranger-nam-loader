@@ -2,6 +2,8 @@
 
 A simple, fast NAM loader plugin. Inspired by [ranger](https://github.com/ranger/ranger) and vim. Keyboard-driven, optimized for performance.
 
+Supports NAM A2.
+
 Built with [JUCE](https://juce.com/), [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (MacOS, Windows, Linux) and LV2 (Linux).
 You probably need to [disable gatekeeper](https://disable-gatekeeper.github.io) to use it on MacOS.
 
