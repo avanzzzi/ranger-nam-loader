@@ -7,7 +7,7 @@ Supports NAM A2.
 Built with [JUCE](https://juce.com/), [NeuralAudio](https://github.com/mikeoliphant/NeuralAudio), [FFTConvolver](https://github.com/HiFi-LoFi/FFTConvolver), and CMake. Available as VST3 (MacOS, Windows, Linux) and LV2 (Linux).
 You probably need to [disable gatekeeper](https://disable-gatekeeper.github.io) to use it on MacOS.
 
-https://github.com/user-attachments/assets/146d01d8-ede9-408f-83ae-f58c652ecf14
+<img width="996" height="920" alt="Image" src="https://github.com/user-attachments/assets/4db1b34c-bf98-44e2-b915-4fed0db9bf9b" />
 
 ## Features
 
